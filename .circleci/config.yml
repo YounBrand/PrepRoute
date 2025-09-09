@@ -21,8 +21,7 @@ jobs:
 workflows:
   run:
     jobs:
-      requires:
-      - build_and_test
-      filters:
+      - build_and_test: 
+          filters:
             branches:
               only: master
