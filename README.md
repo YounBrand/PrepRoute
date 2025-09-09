@@ -15,9 +15,9 @@ Make sure you have Node.js and npm installed on your local machine.
 3.  **Start the server:**
     ```sh
     npm start
-    ```sh
-4.  Open your web browser and navigate to `http://localhost:3000`.   
     ```
+4.  Open your web browser and navigate to `http://localhost:3000`.   
+   
 ## Testing
 To run the automated tests locally use the following command:
 ```sh
