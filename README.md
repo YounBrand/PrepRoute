@@ -7,7 +7,7 @@ Make sure you have Node.js and npm installed on your local machine.
 ### Installation
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/YounBrand/PrepRoute.git
+    git clone https://github.com/YounBrand/PlanetPoints
     ```
 2.  Install the project dependencies:
     ```sh
@@ -22,4 +22,8 @@ Make sure you have Node.js and npm installed on your local machine.
 To run the automated tests locally use the following command:
 ```sh
 npm test
+```
+To continously test while coding 
+```sh
+npm test:watch
 ```
